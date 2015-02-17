@@ -1,0 +1,31 @@
+Enter start, stop, and step: 50 55 1
+Fahrenheit      Celsius
+50.00           10.00
+51.00           10.56
+52.00           11.11
+53.00           11.67
+54.00           12.22
+55.00           12.78
+Computed 6 temperatures
+Enter start, stop, and step: 50 55 -1
+Fahrenheit      Celsius
+50.00           10.00
+51.00           10.56
+52.00           11.11
+53.00           11.67
+54.00           12.22
+55.00           12.78
+Computed 6 temperatures
+Enter start, stop, and step: 50 45 1
+Fahrenheit      Celsius
+50.00           10.00
+49.00           9.44
+48.00           8.89
+47.00           8.33
+46.00           7.78
+45.00           7.22
+Computed 6 temperatures
+Enter start, stop, and step: 50 40 0.0001
+No table--step smaller than 0.001!
+Computed 0 temperatures
+Enter start, stop, and step: 
