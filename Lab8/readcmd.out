@@ -1,0 +1,13 @@
+a ;     b
+The command is: a
+The command is: b
++ /
+Error: + is not a letter.
+aa; +
+The command is: a
+Error: + is not a letter.
+a; b; c ; e
+The command is: a
+The command is: b
+The command is: c
+The command is: e

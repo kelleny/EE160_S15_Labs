@@ -1,0 +1,7 @@
+Enter an number in roman numerals(EOF to quit): XVI
+The number is 16
+Enter an number in roman numerals(EOF to quit): X VI
+The number is 16
+Enter an number in roman numerals(EOF to quit): M X V   I          
+The number is 1016
+Enter an number in roman numerals(EOF to quit): 
